@@ -26,4 +26,4 @@ Welcome to the Real-Time Weather Tracker app! This app provides users with real-
 * Click on the star icon to save a location as a favorite.
 * Click on the alerts tab to see any severe weather alerts for your area.
 ## Future updates
-We are constantly working to improve the Real-Time Weather Tracker app. Thank you for using the Real-Time Weather Tracker app! We hope you find it useful and enjoyable.
+The Real-Time Weather Tracker app is something we are always trying to become better at. We appreciate your interest in our Real-Time Weather Tracker software! We sincerely hope you enjoy it and find it beneficial.
