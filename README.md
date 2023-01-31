@@ -6,7 +6,7 @@ Welcome to the Real-Time Weather Tracker app! This app provides users with real-
 * 5-day forecast for any location
 * Option to switch between Celsius and Fahrenheit temperature units
 * vere weather alerts for your area
-* ility to save your favorite locations for easy access
+* Bility to save your favorite locations for easy access
 * Beautiful, intuitive user interface
 * Hourly forecast
 * Air quality index
